@@ -2,12 +2,7 @@ import random
 
 DS_SCIENTISTS = None
 
-ADJS = [
-  'cunning'
-  'clever',
-  'witty'
- 
-]
+ADJS = None
 
 
 def get_random_name_id():
