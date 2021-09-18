@@ -22,4 +22,5 @@ cvs of list [here](./data_scientists.csv)
 | fei fei li | imagenet, AI, machine learning, computer vision |
 | john von neumann | polymath (too long to list of all von neumann's contributions) |
 | peter norvig | google, author (Artificial Intelligence: A Modern Approach) |
+| dj patil | dept of defense, ebay, linkedin, NOAA data sets, policing data analysis, first chief scientist of US |
 | karl pearson | mathematical statistics, biometrics, founded first statistics department |
