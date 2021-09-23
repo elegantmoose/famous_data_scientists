@@ -7,6 +7,7 @@ cvs of list [here](./data_scientists.csv)
 | Name | Known For |
 | ---- | --------- |
 | dean abbott | smarterHQ co-founder, predictive analytics |
+| anil kumar bhattacharya | bhattacharya distance/coefficient, indian statistical institute |
 | thomas bayes | statistician, philosopher, bayes theorem |
 | jacob bernoulli | mathematician, law of large numbers, bernoulli trials, bernoulli distribution |
 | ronald fisher | statistician, polymath, linear discriminant analysis, f-distribution, maximum likelihood estimation |
