@@ -25,3 +25,4 @@ cvs of list [here](./data_scientists.csv)
 | peter norvig | google, author (Artificial Intelligence: A Modern Approach) |
 | dj patil | dept of defense, ebay, linkedin, NOAA data sets, policing data analysis, first chief scientist of US |
 | karl pearson | mathematical statistics, biometrics, founded first statistics department |
+| robert tibshirani | lasso method, significance of microarrays |
