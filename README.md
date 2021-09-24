@@ -23,6 +23,6 @@ cvs of list [here](./data_scientists.csv)
 | fei fei li | imagenet, AI, machine learning, computer vision |
 | prasanta chandra mahalanobis | mahalanobis distance, indian statistical institute |
 | peter norvig | google, author (Artificial Intelligence: A Modern Approach) |
-| dj patil | dept of defense, ebay, linkedin, NOAA data sets, policing data analysis, first chief scientist of US |
+| dj patil | dept of defense, ebay, linkedin, NOAA data sets, policing data analysis, first chief data scientist of US |
 | karl pearson | mathematical statistics, biometrics, founded first statistics department |
 | robert tibshirani | lasso method, significance of microarrays |
