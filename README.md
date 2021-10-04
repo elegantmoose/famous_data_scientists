@@ -17,6 +17,7 @@ cvs of list [here](./data_scientists.csv)
 | jeff hamerbacher | cloudera co-founder, facebook |
 | geoffrey hinton | artificial neural networks |
 | joseph lawson hodges | statistician,  Hodges–Lehmann estimator, the nearest neighbor rule, Hodges’ estimator |
+| alex krizhevsky | alexnet, covolutional neural networks |
 | yann lecun | optical character recognition, computer vision using convolutional neural networks (CNN), convolutional nets |
 | steven levitt | author, behavioral economics,social economics |
 | michael lewis |inefficient markets, author, journalism, story-telling |
@@ -25,4 +26,5 @@ cvs of list [here](./data_scientists.csv)
 | peter norvig | google, author (Artificial Intelligence: A Modern Approach) |
 | dj patil | dept of defense, ebay, linkedin, NOAA data sets, policing data analysis, first chief data scientist of US |
 | karl pearson | mathematical statistics, biometrics, founded first statistics department |
+| ilya sutskever | alexnet, chief scientist at openapi, alphago |
 | robert tibshirani | lasso method, significance of microarrays |
