@@ -28,3 +28,4 @@ cvs of list [here](./data_scientists.csv)
 | karl pearson | mathematical statistics, biometrics, founded first statistics department |
 | ilya sutskever | alexnet, chief scientist at openapi, alphago |
 | robert tibshirani | lasso method, significance of microarrays |
+| david wolpert | no free lunch theorem |
